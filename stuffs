@@ -5,11 +5,11 @@
  * @version 1.0.5
  * @authorId 278543574059057154
  * @invite Jx3TjNS
- * @donate https://www.paypal.me/MircoWittrien
- * @patreon https://www.patreon.com/MircoWittrien
- * @website https://mwittrien.github.io/
- * @source https://github.com/mwittrien/BetterDiscordAddons/tree/master/Themes/BasicBackground/
- * @updateUrl https://mwittrien.github.io/BetterDiscordAddons/Themes/BasicBackground/BasicBackground.theme.css
+ * @donate 
+ * @patreon 
+ * @website
+ * @source https://raw.githubusercontent.com/CerrahBaevski/baevskistuff/main/mods.css
+ * @updateUrl
  * 
  * @var text				transparencycolor_s		"Transparency Color: [default] = 0, 0, 0"		0, 0, 0
  * @var range				transparencyalpha_s		"Transparency Alpha: [default] = 0.15"			[0.15, 0, 1, 0.05]
